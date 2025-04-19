@@ -1,0 +1,11 @@
+# ========== Android Studio Junk ==========
+.idea/
+*.iml
+local.properties
+
+# ========== Build Files ==========
+.gradle/
+**/build/
+
+# ========== OS Generated ==========
+.DS_Store

@@ -1,0 +1,11 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#FFFFFF</color>
+    <color name="gray">#CCCCCC</color>
+
+    <!-- Add this line -->
+    <color name="teal_700">#00796B</color>  <!-- Teal shade -->
+    <color name="blue">#800080</color>
+    <color name="green">#00FF00</color>
+    <color name="red">#D32F2F</color>  <!-- Red for delete button -->
+</resources>
